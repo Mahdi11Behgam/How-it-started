@@ -54,3 +54,13 @@
     font-size: large;
     border-radius: 4px;
   }
+
+  .img-items{
+    width: 100px;
+    height: 100px;
+  }
+
+  .img-cpu-choosed{
+    width: 100px;
+    height: 100px;
+  }
