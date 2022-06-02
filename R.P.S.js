@@ -34,7 +34,7 @@ let cpuImage = document.querySelectorAll('.img-cpu-choosed')
         if(e.key == 'r'){
             refreshFunction();
         }else if(e.key == 'a'){
-            alert('ey gooooz')
+            alert('ey gooz')
         }
     })
 
